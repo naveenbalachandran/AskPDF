@@ -1,0 +1,9 @@
+# Exclude everything
+*
+
+# Include specific files
+!app.py
+!call2llm.py
+!extract_text.py
+!Readme.md
+!requirements.txt
