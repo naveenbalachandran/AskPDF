@@ -1,4 +1,6 @@
 # AskPDF (No OpenAI API Key Required)
+Click to See Demo Video:
+[![Demo Video](https://img.youtube.com/vi/PeK1juXk9RA/0.jpg)](https://www.youtube.com/watch?v=PeK1juXk9RA)
 
 
 AskPDF is a Streamlit app that allows you to extract text from uploaded PDF files, ask questions related to the extracted text, and get AI-generated responses. The app uses the OpenAI Language Model to provide answers based on the given text and query.
